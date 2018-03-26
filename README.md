@@ -7,4 +7,4 @@ All credit for panel and daemon: https://github.com/Pterodactyl/Panel
 
 Currently Included Games:
 
-- Project Zomboid Vanilla
+- Project Zomboid (Requires a restart after first start to have config files properly updated).
